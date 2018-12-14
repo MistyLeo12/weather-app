@@ -3,4 +3,10 @@
 Simple weather app to teach myself how to create a web app using node js and integrating the https://openweathermap.org/ api. 
 
 Examples Sceenshots: 
-![Alt text](/pictures/portland.png?raw=true "Optional Title")
+
+
+
+![Portland Weather](/pictures/portland.png?raw=true)
+
+
+![Durham Weather](/pictures/durham.png?raw=true)
